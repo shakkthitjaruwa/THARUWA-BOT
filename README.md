@@ -2,8 +2,8 @@
 
 # THARUWA BOT 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=+MADE+BY+THARUWA+MD+WA+BOT.;HELP BY+HANSAMALA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=CREATED+BY+THARUWA+MD+WA+BOT.;HELP+BY+HANSAMALA.;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+ 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
 
