@@ -1,6 +1,9 @@
 <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
-# THARUWA BOT 
+# THARUWA BOT
+ This project is still being tested
+<p align="center"> <a href="github.com/shakkthitjaruwa"><img align="center" src="https://telegra.ph/file/26eae798aad632479b40e.jpg"/></a>
+ <p align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=CREATED+BY+THARUWA+MD+WA+BOT.;HELP+BY+HANSAMALA.;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
  
