@@ -25,7 +25,7 @@
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
-## DONT FORGET TO GIVE A STAR🌟 AND FORK
+## හායි යාලුවනේ... 💖
 
 
 
