@@ -10,8 +10,7 @@
  
  ## ```HI WELCOME TO OUR GIT```
   
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
-> 
+
 ## ආ මෙකෙන් තමයි හදන්නෙ... 💖
 
 
