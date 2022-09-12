@@ -12,14 +12,9 @@
  
  <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
  
- ## ```Donate Me```
+ ## ```HI WELCOME TO OUR GIT```
+  
 
-- [`Paypal`](https://www.paypal.me/zimbotinc)
- </a>
-</p>
-<p align="center">
-<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
-</p>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
